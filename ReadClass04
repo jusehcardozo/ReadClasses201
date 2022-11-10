@@ -1,0 +1,23 @@
+Jose Cardozo
+11/10/2022
+
+https://www.professormesser.com/free-a-plus-training/220-902/how-to-troubleshoot/
+
+This topic matters because we need to learn how to troubleshoot things, learn how to fix whatever problem that comes our way (at least try, lol).
+In IT, a big part of our job is solving problems. And in this article, they show this troubleshooting process that can not only solve problem you’ll have in IT, but they
+can be applied to problems that you’d solve in any environment.
+This first step is all about identifying information. You need to completely understand what the problem might be. And if possible, you want to
+be able to duplicate the problem.
+With technology, these problems often come with multiple symptoms. It’s never just one thing. It’s often an error message, the system is slow, and the screen
+turns blue. And you need to be sure to document all of these so that you can understand what the total issue might be.
+If there’s an end user that’s dealing with this problem, then they’re probably very familiar with what happens before, during, and after this issue.
+So make sure you ask them a lot of questions to get a lot of details from their perspective. If things have been working fine for a long period of time and then 
+suddenly they’re not working properly any longer, then something might have changed with their environment.
+Now that we’ve collected information, we need to start thinking about what might have caused this problem. We can start with the most obvious issues.
+The simplest explanation is often the most likely.
+That doesn’t mean it’s the only possible thing that might be happening. You need to consider every possible scenario, even the ones that might not be completely obvious.
+It’s useful to make a list of what all of the possible problems might be. And then you can start with the easy theories to see if those might be able to resolve the problem quickly.
+Once you successfully identify which one of your theories actually solves the problem, then it’s time to implement the solution. Sometimes this can be done very quickly.
+You make the change and everything’s back up and running.
+Once you’ve applied the fix, you still have to test and make sure that your fix actually solved the problem. You can test this yourself.
+Now that the problem has been implemented, you’ve tested, and everything’s back to normal, it might be worthwhile to create some preventative measures so that this problem doesn’t occur in the future.
