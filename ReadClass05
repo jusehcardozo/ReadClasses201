@@ -1,0 +1,22 @@
+Jose Cardozo
+11/13/2022
+
+https://www.upguard.com/blog/smb-port
+https://nordvpn.com/blog/what-is-smb/
+
+The video basically shows how to use command prompt, also shows how to use as administrator and teaches to run codes and shortcuts.
+
+What is SMB protocol?
+The Server Message Block (SMB) is a network protocol that enables users to communicate with remote computers and servers — to use their resources or share, open,
+and edit files. It’s also referred to as the server/client protocol, as the server has a resource that it can share with the client.
+Like any network file sharing protocol, SMB block needs network ports to communicate with other systems. Originally, it used port 139 that allowed computers to 
+communicate on the same network. But since Windows 2000, SMB uses port 445 and the TCP network protocol to “talk” to other computers over the internet.
+So what is SMB and how is it used? The SMB protocol creates a connection between the server and the client by sending multiple request-response messages back and forth.
+
+Imagine your team is working on a large project that involves a lot of back and forth. You might want to be able to share and edit files that are stored in one place. 
+The SMB protocol will allow your team members to use these shared files as if they were on their own hard drives. Even if one of them is on a business trip on the other 
+side of the world, they can still access and use the data.
+What is SMB authentication?
+Like any other connection, the SMB protocol needs security measures to make communication safe. At the user level, SMB authentication requires a username and password to
+allow access to the server. It is controlled by the system administrator, who can add or block users and keep tabs on who is allowed in.
+At a share-level, users have to enter a one-time password to access the shared file or server, but no identity authentication is required.
