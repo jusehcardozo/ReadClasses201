@@ -17,5 +17,8 @@ It gives a detailed analysis of the working of all the applications in Windows 1
 running any application. This list helps us to determine the root cause of all the problems.
 It facilitates us in tracing those applications that cause problems while running. After viewing the detailed report of those problems, you can easily resolve them.
 This not only increases the efficiency of your computer system but also saves you in the future from some of the most commonly occurring issues.
-In this article, we will explain to you the method of using the Event Viewer in Windows 10.
+There are three levels of all the events that are recorded by the Application Log i.e. Information, Error and Warning. The Information events are those events that
+inform about the normal activity of an application i.e. the application is running without any issue. The Error events inform about the occurrence of an error while
+running an application. The Warning events tell about any possible issues that may occur while running the application. Moreover, the event IDs of the events help you
+in finding the solution to any particular error by searching for it on the Internet.
 
