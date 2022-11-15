@@ -21,4 +21,7 @@ There are three levels of all the events that are recorded by the Application Lo
 inform about the normal activity of an application i.e. the application is running without any issue. The Error events inform about the occurrence of an error while
 running an application. The Warning events tell about any possible issues that may occur while running the application. Moreover, the event IDs of the events help you
 in finding the solution to any particular error by searching for it on the Internet.
+In this way, you can use the Event Viewer to analyze the Event Log in order to know about all the events that occur on your computer system using Windows 10. 
+The Event Log not only helps us in tracing the issues and problems that arise while performing certain activities but it also helps us in resolving the most commonly
+occurring problems by using their respective event IDs.
 
