@@ -1,0 +1,38 @@
+Jose Cardozo
+11/15/2022
+
+PS1 - Should you learn PowerShell? - Tech Thoughts
+Who needs malware? IBM says most hackers just PowerShell through boxes now, leaving little in the way of footprints • The Register
+
+The Youtube video speaks of attacks using malicious PowerShell usage, called “Living of the Land”. These attacks are hard to detect, usually don’t ring any
+alarms and allow attackers to do their dirty job as they please. Apparently these attacks are somewhat easy to conduct and hard for cybersecurity companies to detect.
+This is post one on a journey towards learning PowerShell. A commitment to learn PowerShell will not be a small investment of your time. 
+Before diving straight in it’s worth exploring what PowerShell is capable of, who is using it, and how it compares to other languages.
+You can then determine if PowerShell makes sense for you in today’s technology landscape.
+Let's start with the obvious question. What is PowerShell? PowerShell is a command-line shell interface made by Microsoft that enables system administrators and
+power users to manage computers from the command line. PowerShell is also a scripting language, built on .NET which can be used for automating administrative
+tasks and configuration management.
+What's in a Shell?
+Systems and Network Admins/Engineers will often gravitate towards a particular operating system, Linux or Windows. This may be based on personal preference, or because
+the environment they work in leverages one over the other. The following scenario typically unfolds as a result:
+Linux → Bash → Python
+Windows → PowerShell → C#
+This is changing now that Bash is available on Windows, and PowerShell is available on Linux. The lines are truly starting to blur, so lets explore these two languages.
+Why you should learn PowerShell
+Now that you’ve gotten some insight into language outcomes (create vs do/manage), job titles that use PowerShell, and where PowerShell is used, you should have a
+pretty clear indication if PowerShell is the right choice for you.
+PowerShell is a fantastically powerful language that can do great things for your environment, and your career. While your counterparts are performing manual steps,
+the automation capabilities of PowerShell can have you accomplishing similar tasks in a fraction of the time. It can be the difference between an initiative taking
+weeks vs minutes.
+Manual repetitive steps are also prone to mistakes. PowerShell can test outcomes and ensure accuracy for every initiative. Better still, it’s versatility and 
+availability on so many platforms means you only have to learn it once, and can apply it everywhere.
+Who needs malware? IBM says most hackers just PowerShell through boxes now, leaving little in the way of footprints
+A company's internal network, once compromised, is now more likely to be ransacked by automated scripts than a piece of malware.
+This according to researchers with IBM's X-Force, who found that in 2018 just 43 per cent of the attacks it analyzed utilized any sort of locally installed files.
+Rather, the hackers utilized PowerShell scripts to execute their dirty deeds in memory without significantly touching file systems, if at all.
+This finding is important because it is another reminder that admins can no longer solely rely on detecting malicious executables and similar data on hard drives and
+other storage, to identify cyber-intrusions.
+"PowerShell is useful in data collection and analysis, but it is also favored by malicious actors who use it to forego the file system and inject malicious code
+directly into memory, thus enhancing obfuscation, and often evading security controls designed to detect malware deployments," the IBM report reads.
+"Threat actors of all skill levels have expanded their capabilities using PowerShell over the last few years. IBM X-Force IRIS has seen cases wherein 
+complete malicious toolkits were contained within PowerShell scripts."
