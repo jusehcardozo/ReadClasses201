@@ -1,0 +1,29 @@
+Jose Cardozo
+11/16/2022
+
+Windows Registry Demystified: What You Can Do With It (howtogeek.com)
+What is Event Viewer and How to Use it in Windows 10 (faqforge.com)
+
+
+The Windows Registry is a database where Windows and many programs store their configuration settings. You can edit the registry yourself to enable hidden features and
+tweak specific options. These tweaks are often called “registry hacks.”
+The Windows registry is a collection of several databases. There are system-wide registry settings that apply to all users, and each Windows user account also has
+its own user-specific settings.
+The registry contains folder-like “keys” and “values” inside those keys that can contain numbers, text, or other data. The registry is made up of multiple groups of keys
+and values like HKEY_CURRENT_USER and HKEY_LOCAL_MACHINE. These groups are called “hives” because of one of the original developers of Windows NT hated bees.
+Editing the registry isn’t dangerous if you know what you’re doing. Just follow the instructions and only change the settings you’re instructed to change.
+But, if you go into the registry and start haphazardly deleting or changing things, you could mess up your system’s configuration—and potentially even render
+Windows unbootable.
+
+What is the Event Viewer?
+
+Windows 10 provides us with a feature, which helps us in viewing the detailed log of all our applications. This feature is known as Event Viewer. It gives a detailed
+analysis of the working of all the applications in Windows 10. It also provides us with a list of all the error events that occurred while running any application.
+It facilitates us in tracing those applications that cause problems while running. After viewing the detailed report of those problems, you can easily resolve them. 
+This not only increases the efficiency of your computer system but also saves you in the future from some of the most commonly occurring issues.
+There are three levels of all the events that are recorded by the Application Log i.e. Information, Error and Warning. The Information events are those events
+that inform about the normal activity of an application i.e. the application is running without any issue. The Error events inform about the occurrence of an error 
+while running an application. The Warning events tell about any possible issues that may occur while running the application.
+In this way, you can use the Event Viewer to analyze the Event Log in order to know about all the events that occur on your computer system using Windows 10. 
+The Event Log not only helps us in tracing the issues and problems that arise while performing certain activities but it also helps us in resolving the most commonly 
+occurring problems by using their respective event IDs.
