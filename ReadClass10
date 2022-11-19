@@ -1,0 +1,31 @@
+Jose Cardozo
+11/18/2022
+
+https://www.veeam.com/blog/how-to-get-started-with-veeam-backup-free-edition.html
+
+The article talks about some powerful features you’ll find in the new version of Veeam like:
+VeeamZIP Backup
+Veeam Explorer for Exchange
+Veeam Explorer for Storage Snapshots
+Veeam Explorer for SharePoint
+Quick Migration for VMware
+File Copy Job
+VM Copy Job
+FastSCP Editor
+Native tape support
+File level recovery from backup
+Whole VM recovery from backup
+VM file recovery from backup.
+Veeam Backup Free Edition can be summarized in these three powerful categories:
+
+VeeamZIP – Creates an ad-hoc backup of a running VM, which gives you many benefits such as being able to easily copy a backup to another host without having to 
+power off the original VM
+Powerful and flexible restores – Supports a number of recovery scenarios, including recovery of an entire VM, guest OS files and individual application items
+Quick Migration (VMware) – Migrates a live VM between hosts or datastores with minimal downtime and without requiring clusters, shared storage, or even
+VMware vMotion or Storage vMotion.
+VeeamZIP delivers technology that lets you create backups of running VMs. With VeeamZIP, you have to specify only two things – the VM you want to backup and 
+where your resulting backup file will go.
+Veeam Backup Free Edition supports several data recovery scenarios, beginning with recovery of a VM file and going all the way to restoring an entire VM
+Quick Migration lets you migrate live VMs between hosts or datastores without requiring clusters, shared storage or advanced functionality that is not available
+in lower-level hypervisor editions. Quick Migration works well even in environments with slow or high latency connections that prevent VMware vMotion an
+Hyper-V Live Migration from working!
