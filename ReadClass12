@@ -1,0 +1,18 @@
+Jose Cardozo
+11/22/2022
+
+https://turbofuture.com/computers/Introduction-to-pfSense-An-Open-Source-Firewall-and-Router-Platform
+
+What Is pfSense?
+pfSense is a free, customized distribution of FreeBSD that can turn an old computer into a full featured router and firewall.
+pfSense was created in 2004 as a fork of the popular m0n0wall project. The main difference between pfSense and m0n0wall is that pfSense is designed mainly to be
+installed on PCs instead of embedded devices which allows pfSense to offer more flexibility and features.
+pfSense is very flexible and can easily be adapted to numerous applications ranging from a home router to a firewall for a large corporate network.
+pfSense is easy to install and maintain offering a very useful web based user interface. pfSense includes many features that are often only found in expensive
+commercial routers.
+Why Use pfSense Instead of Another Router?
+pfSense is fast, free, and stable offering tons of great features.
+If you have an existing router that doesn't offer the features, or performance you need pfSense is a great choice to replace it with. Offering complete control of the
+hardware you can customize your pfSense system with the components you want.
+If you've ever shopped for routers or firewalls before, you probably know that depending on the features you are looking for they can be quite expensive.
+By using pfSense you can save a ton of money without compromising on features.
