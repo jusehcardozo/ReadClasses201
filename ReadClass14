@@ -1,0 +1,39 @@
+Jose Cardozo
+11/28/2022
+
+https://www.pcworld.com/article/478239/how-to-remove-malware-from-your-windows-pc.html
+
+How to remove malware from your Windows PC
+
+Step 1: Enter Safe Mode
+Before you do anything, you need to disconnect your PC from the internet, and don’t use it until you’re ready to clean your PC. This can help prevent the malware
+from spreading and/or leaking your private data.
+
+Step 2: Delete temporary files
+Now that you’re in Safe Mode, you’ll want to run a virus scan. But before you do that, delete your temporary files. Doing this may speed up the virus scanning, 
+free up disk space, and even get rid of some malware. To use the Disk Cleanup utility included with Windows 10 just type Disk Cleanup in the search bar or
+after pressing the Start button and select the tool that appears named Disk Cleanup.
+
+Step 3: Download malware scanners
+Now you’re ready to have a malware scanner do its work—and fortunately, running a scanner is enough to remove most standard infections. 
+If you already had an antivirus program active on your computer, you should use a different scanner for this malware check, since your current antivirus software
+may not have detected the malware. Remember, no antivirus program can detect 100 percent of the millions of malware types and variants.
+Step 4: Run a scan with Malwarebytes 
+For illustrative purposes, we’ll describe how to use the Malwarebytes on-demand scanner. To get started, download it. If you disconnected from the internet for
+safety reasons when you first suspected that you might be infected, reconnect to it so you can download, install, and update Malwarebytes; then disconnect from
+the internet again before you start the actual scanning. If you can’t access the internet or you can’t download Malwarebytes on the infected computer,
+download it on another computer, save it to a USB flash drive, and take the flash drive to the infected computer.
+
+Step 5: Fix your web browser
+Malware infections can damage Windows system files and other settings. One common malware trait is to modify your web browser’s homepage to reinfect the PC, 
+display advertisements, prevent browsing, and generally annoy you.
+Before launching your web browser, check your homepage and connection settings. Simply go to the setttings window of your browser to check your homepage setting.
+Step 6: Recover your files if Windows is corrupt
+If you can’t seem to remove the malware or if Windows isn’t working properly, you may have to reinstall Windows. But before wiping your hard drive, copy all of your files
+to an external USB or flash drive.
+7: Keep your PC clean
+Always make sure that you have a real-time antivirus program running on your PC, and make sure this program is always up-to-date. If you don’t want to spend money on
+yearly subscriptions, you can choose one of the many free programs that provide adequate protection, such as Avira Antivirus Free Edition and Bitdefender Antivirus Free
+Edition. If you’d prefer a more robust AV program, we recommend Norton Security Premium—see our roundup of the best antivirus software for more information. 
+
+The second link brought me to a page not showing the content and saying this message: "You’ve reached your limit of free articles."
